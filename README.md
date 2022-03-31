@@ -12,3 +12,13 @@ SQL, Spark, NLP techniques
 ## Implementation:
 We plan to process the data using techniques we learnt in class, such as SQL, Spark, MapReduce, etc. Then we use techniques in Natural Language Processing to extract important keywords from the articles, and then cluster similar articles and visualize our result in a plot. 
 
+https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge
+
+https://www.kaggle.com/code/kowalskyyy999/pyspark-running-on-gpu
+
+https://www.kaggle.com/code/davidmezzetti/cord-19-analysis-with-sentence-embeddings/notebook
+
+https://www.kaggle.com/code/davidmezzetti/cord-19-population/notebook
+
+https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021#Topic-Extraction-II:-SentenceBert-+-K-Means-Clustering-+-TF-IDF
+
