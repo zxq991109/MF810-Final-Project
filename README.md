@@ -16,3 +16,5 @@ Ways to run the code:
 1. kaggle. tutorial: https://towardsdatascience.com/using-kaggle-for-your-data-science-work-a2e78d692395
 2. Google Cloud. https://cloud.google.com/storage/?gclid=Cj0KCQjw0umSBhDrARIsAH7FCod_zgLL0YvoEQk58k-5cMcEhXKv4-5jSeavYhxw4VaBLliSOuFdRugaAq0UEALw_wcB&gclsrc=aw.ds
 https://console.cloud.google.com/getting-started?walkthrough_id=storage__quickstart-basic-tasks&_ga=2.254222216.103082690.1650166969-1074522138.1650166969&_gac=1.247258614.1650166969.Cj0KCQjw0umSBhDrARIsAH7FCod_zgLL0YvoEQk58k-5cMcEhXKv4-5jSeavYhxw4VaBLliSOuFdRugaAq0UEALw_wcB&pli=1
+
+Join metadata and pmc by pmcid
