@@ -24,3 +24,4 @@ https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021#Topi
 
 spark:
 https://www.kaggle.com/code/acmiyaguchi/pyspark-dataframe-preprocessing-for-cord-19
+https://www.kaggle.com/code/ashikm96/sentiment-analysis-covid-19-news-gdelt-pyspark
