@@ -22,3 +22,5 @@ https://www.kaggle.com/code/davidmezzetti/cord-19-population/notebook
 
 https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021#Topic-Extraction-II:-SentenceBert-+-K-Means-Clustering-+-TF-IDF
 
+spark:
+https://www.kaggle.com/code/acmiyaguchi/pyspark-dataframe-preprocessing-for-cord-19
